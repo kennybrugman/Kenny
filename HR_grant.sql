@@ -1,0 +1,1 @@
+grant execute on hr.hr_jedi to jedi
